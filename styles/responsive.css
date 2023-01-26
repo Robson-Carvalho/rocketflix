@@ -1,0 +1,8 @@
+@media (max-width: 686px) {
+  .container #movie .card .info .title {
+    margin: 0 auto;
+  }
+  .container #movie .card .info .description {
+    text-align: center;
+  }
+}
