@@ -7,10 +7,33 @@
 
 body {
   min-height: 100vh;
+  background: var(--background);
 }
 
 body,
 * {
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 126px 30px 103px 29px;
+}
+
+.container .title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10.07px;
+}
+
+.container .title h1 {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 60px;
+  color: var(--title);
+  text-align: center;
 }
