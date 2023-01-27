@@ -4,6 +4,6 @@
 
 <p align="center">
   <a href="https://rocketflix-zeta.vercel.app/">
-    <img src="http://img.shields.io/static/v1?laabel=STATUS&message=In%20Production&color=GREEN&style=for-the-badge"/>
+    <img src="http://img.shields.io/static/v1?laabel=STATUS&message=In%20Production&color=102d71&style=for-the-badge"/>
   </a>
 </p>
